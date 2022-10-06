@@ -4,12 +4,12 @@ A comparison of six different multiclass classification models for prediction of
 Summary
 This notebook exhibits a comparison between the following models implemented through scikit-learn on datasets that provide the match statistics for 10 seasons in the English Premier League.
 
-  Logistic regression
-  Random Forest Classifier
-  Artifical Neural Network
-  Decision Trees Classifier
-  Naive Bayes
-  K_Nearest Neighbour Classifier
+  1)Logistic regression 
+  2)Random Forest Classifier 
+  3)Artifical Neural Network 
+  4)Decision Trees Classifier 
+  5)Naive Bayes 
+  6)K_Nearest Neighbour Classifier
   
 About the data
 The original datasets consists of 22 usable features and the records of 381 matches per season.
