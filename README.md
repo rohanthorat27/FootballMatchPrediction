@@ -14,6 +14,8 @@ This notebook exhibits a comparison between the following models implemented thr
 About the data
 The original datasets consists of 22 usable features and the records of 381 matches per season.
 
+Complete information about features given in JSON file
+
 Upon performing exploratory analysis on the data, it was observed that there were two main types of feature transformations required: ordinal and nominal.
 
 The following steps were carried out in order to bring the data into usable format:
