@@ -3,6 +3,7 @@ A comparison of six different multiclass classification models for prediction of
 
 Summary
 This notebook exhibits a comparison between the following models implemented through scikit-learn on datasets that provide the match statistics for 10 seasons in the English Premier League.
+
   Logistic regression
   Random Forest Classifier
   Artifical Neural Network
